@@ -1,0 +1,6 @@
+{
+  "EDGE.Application.Processing.Api, Version=1.1.6.0, Culture=neutral, PublicKeyToken=null": "~",
+  "EDGE.Application.Processing.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "~",
+  "EDGE.Application.Processing.Infra, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "~",
+  "EDGE.Application.Processing.Services, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "~"
+}
